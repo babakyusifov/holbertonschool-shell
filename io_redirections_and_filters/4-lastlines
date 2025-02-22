@@ -1,2 +1,2 @@
 #!/bin/bash
-tile /etc/passwd
+tile -10  /etc/passwd
